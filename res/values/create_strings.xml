@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="create_mode">选择模板</string>
+    <string name="create_userName">姓名：</string>
+    <string name="create_phone">电话：</string>
+    <string name="create_address">地址：</string>
+    <string name="create_email">电子邮箱：</string>
+    <string name="create_man">男</string>
+    <string name="create_woman">女</string>
+    <string name="star">*</string>
+    <string name="create_job">职务：</string>
+    <string name="create_postNum">邮编：</string>
+    <string name="create_scan">预览</string>
+    <string name="create_create">创建</string>
+    <string name="create_sex">性别：</string>
+    <string name="create_type">名片类型</string>
+    
+</resources>

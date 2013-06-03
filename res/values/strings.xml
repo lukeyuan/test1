@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">test1</string>
+    <string name="title_activity_create_new_other">CreateNewOther</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_create_self">创建个人名片</string>
+    <string name="title_activity_manage_card">ManageCard</string>
+    <string name="title_activity_create_other">CreateOther</string>
+
+</resources>
